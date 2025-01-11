@@ -26,3 +26,4 @@ val drinks = listOf<Drink>(
     Drink(name = "Café Bombón", description = "Espresso with sweetened condensed milk.", price = 175, type = DrinkType.Coffee, image = R.drawable.img_cafe_bombon),
     Drink(name = "Café Cortado", description = "Espresso cut with a small amount of warm milk to reduce the acidity.", price = 140, type = DrinkType.Coffee, image = R.drawable.img_cafe_cortado)
 )
+

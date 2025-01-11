@@ -1,98 +1,98 @@
 package com.lihan.drinkorderapp.feature.core.presentation
 
 import androidx.compose.runtime.Composable
-import androidx.compose.ui.graphics.vector.ImageVector
-import androidx.compose.ui.res.vectorResource
+import androidx.compose.ui.graphics.painter.Painter
+import androidx.compose.ui.res.painterResource
 import com.lihan.drinkorderapp.R
 
 
-val AddIcon: ImageVector
+val AddIcon: Painter
     @Composable
-    get() = ImageVector.vectorResource(R.drawable.add)
+    get() = painterResource(R.drawable.add)
 
-val AddCircleIcon: ImageVector
+val AddCircleIcon: Painter
     @Composable
-    get() = ImageVector.vectorResource(R.drawable.add_circle)
+    get() = painterResource(R.drawable.add_circle)
 
-val AddSquareIcon: ImageVector
+val AddSquareIcon: Painter
     @Composable
-    get() = ImageVector.vectorResource(R.drawable.add_square)
+    get() = painterResource(R.drawable.add_square)
 
-val CloseCircleIcon: ImageVector
+val CloseCircleIcon: Painter
     @Composable
-    get() = ImageVector.vectorResource(R.drawable.close_circle)
+    get() = painterResource(R.drawable.close_circle)
 
-val CoffeeIcon: ImageVector
+val CoffeeIcon: Painter
     @Composable
-    get() = ImageVector.vectorResource(R.drawable.coffee)
+    get() = painterResource(R.drawable.coffee)
 
-val DislikeIcon: ImageVector
+val DislikeIcon: Painter
     @Composable
-    get() = ImageVector.vectorResource(R.drawable.dislike)
+    get() = painterResource(R.drawable.dislike)
 
 
-val EmptyWalletTimeIcon: ImageVector
+val EmptyWalletTimeIcon: Painter
     @Composable
-    get() = ImageVector.vectorResource(R.drawable.empty_wallet_time)
+    get() = painterResource(R.drawable.empty_wallet_time)
 
-val FilterSearchIcon: ImageVector
+val FilterSearchIcon: Painter
     @Composable
-    get() = ImageVector.vectorResource(R.drawable.filter_search)
+    get() = painterResource(R.drawable.filter_search)
 
-val HeartIcon: ImageVector
+val HeartIcon: Painter
     @Composable
-    get() = ImageVector.vectorResource(R.drawable.heart)
+    get() = painterResource(R.drawable.heart)
 
-val HomeIcon: ImageVector
+val HomeIcon: Painter
     @Composable
-    get() = ImageVector.vectorResource(R.drawable.home)
+    get() = painterResource(R.drawable.home)
 
 
-val LikeIcon: ImageVector
+val LikeIcon: Painter
     @Composable
-    get() = ImageVector.vectorResource(R.drawable.like)
+    get() = painterResource(R.drawable.like)
 
-val MessageNotifyIcon: ImageVector
+val MessageNotifyIcon: Painter
     @Composable
-    get() = ImageVector.vectorResource(R.drawable.message_notif)
+    get() = painterResource(R.drawable.message_notif)
 
-val MinusIcon: ImageVector
+val MinusIcon: Painter
     @Composable
-    get() = ImageVector.vectorResource(R.drawable.minus)
+    get() = painterResource(R.drawable.minus)
 
-val MinusCircleIcon: ImageVector
+val MinusCircleIcon: Painter
     @Composable
-    get() = ImageVector.vectorResource(R.drawable.minus_cirlce)
+    get() = painterResource(R.drawable.minus_cirlce)
 
-val MinusSquareIcon: ImageVector
+val MinusSquareIcon: Painter
     @Composable
-    get() = ImageVector.vectorResource(R.drawable.minus_square)
+    get() = painterResource(R.drawable.minus_square)
 
-val SearchNormalIcon: ImageVector
+val SearchNormalIcon: Painter
     @Composable
-    get() = ImageVector.vectorResource(R.drawable.search_normal)
+    get() = painterResource(R.drawable.search_normal)
 
-val SearchZoomInIcon: ImageVector
+val SearchZoomInIcon: Painter
     @Composable
-    get() = ImageVector.vectorResource(R.drawable.search_zoom_in)
+    get() = painterResource(R.drawable.search_zoom_in)
 
-val SearchZoomOutIcon: ImageVector
+val SearchZoomOutIcon: Painter
     @Composable
-    get() = ImageVector.vectorResource(R.drawable.search_zoom_out)
+    get() = painterResource(R.drawable.search_zoom_out)
 
-val SnowIcon: ImageVector
+val SnowIcon: Painter
     @Composable
-    get() = ImageVector.vectorResource(R.drawable.snow)
+    get() = painterResource(R.drawable.snow)
 
-val StarIcon: ImageVector
+val StarIcon: Painter
     @Composable
-    get() = ImageVector.vectorResource(R.drawable.star)
+    get() = painterResource(R.drawable.star)
 
-val UserIcon: ImageVector
+val UserIcon: Painter
     @Composable
-    get() = ImageVector.vectorResource(R.drawable.user)
+    get() = painterResource(R.drawable.user)
 
-val Wind2Icon: ImageVector
+val Wind2Icon: Painter
     @Composable
-    get() = ImageVector.vectorResource(R.drawable.wind_2)
+    get() = painterResource(R.drawable.wind_2)
 
